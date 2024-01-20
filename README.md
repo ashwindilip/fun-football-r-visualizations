@@ -32,4 +32,4 @@ The **worldfootballR** and **StatsBombR** packages were used to obtain the relev
 
 The **ggsoccer** package has also been used to facilitate visualization.
 
-The installations of these packages in addition to **tidyverse** , **ggplot2** and **xlsx** will be necessary.
+The installations of these packages in addition to **tidyverse**, **ggplot2** and **xlsx** will be necessary.
